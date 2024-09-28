@@ -1,2 +1,4 @@
 for i in range(10):
-    print("Hola a todos")
+    print(f"Hola a todos por la vez {i}")
+
+print("Adios")
